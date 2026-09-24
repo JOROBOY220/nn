@@ -41,7 +41,7 @@
 ## Установка
 
 Нужно: Minecraft **26.2**, Fabric Loader **≥ 0.19.3**, **Fabric API** для 26.2, Java 25.
-Положите `symbiot-menu-1.0.0+26.2.jar` в папку `mods`. Язык кнопок следует языку игры
+Положите `symbiot-menu-0.2.0+26.2.jar` в папку `mods`. Язык кнопок следует языку игры
 (Настройки → Язык → Русский).
 
 ## Сборка jar
@@ -57,7 +57,7 @@
 gradle wrapper      # один раз, создаст gradlew
 ./gradlew build     # Windows: gradlew.bat build
 ```
-Готовый файл: `build/libs/symbiot-menu-1.0.0+26.2.jar`.
+Готовый файл: `build/libs/symbiot-menu-0.2.0+26.2.jar`.
 Запуск игры для теста прямо из проекта: `./gradlew runClient`.
 
 ## Настройка / изменение
