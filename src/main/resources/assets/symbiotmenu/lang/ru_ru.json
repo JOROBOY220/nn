@@ -1,0 +1,15 @@
+{
+  "symbiotmenu.title": "Симбиот",
+  "symbiotmenu.button.singleplayer": "Одиночная игра",
+  "symbiotmenu.button.multiplayer": "Сетевая игра",
+  "symbiotmenu.button.settings": "Настройки",
+  "symbiotmenu.button.mods": "Моды",
+  "symbiotmenu.button.quit": "Выйти из игры",
+  "symbiotmenu.button.back": "Назад",
+  "symbiotmenu.subtitle": "СВЯЗЬ • ЭВОЛЮЦИЯ • ВЫЖИВАНИЕ",
+  "symbiotmenu.motto": "Твоя связь — твой путь",
+  "symbiotmenu.version": "Minecraft %s",
+  "symbiotmenu.loader": "Fabric • модов: %s",
+  "symbiotmenu.mods.title": "Установленные моды",
+  "symbiotmenu.mods.count": "Всего модов: %s"
+}

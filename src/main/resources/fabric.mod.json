@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "symbiotmenu",
+  "version": "${version}",
+  "name": "Symbiot Menu",
+  "description": "Живое главное меню в стиле тёмного фэнтези: анимированный симбиот, щупальца, пульсирующие прожилки и глаза, которые открываются при наведении.",
+  "authors": ["Symbiot"],
+  "license": "MIT",
+  "icon": "assets/symbiotmenu/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.symbiot.menu.SymbiotMenuClient"]
+  },
+  "mixins": ["symbiotmenu.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "symbiotmenu.title": "Symbiot",
+  "symbiotmenu.button.singleplayer": "Singleplayer",
+  "symbiotmenu.button.multiplayer": "Multiplayer",
+  "symbiotmenu.button.settings": "Options",
+  "symbiotmenu.button.mods": "Mods",
+  "symbiotmenu.button.quit": "Quit Game",
+  "symbiotmenu.button.back": "Back",
+  "symbiotmenu.subtitle": "BOND • EVOLVE • SURVIVE",
+  "symbiotmenu.motto": "Your bond is your path",
+  "symbiotmenu.version": "Minecraft %s",
+  "symbiotmenu.loader": "Fabric • %s mods",
+  "symbiotmenu.mods.title": "Installed Mods",
+  "symbiotmenu.mods.count": "Total mods: %s"
+}
